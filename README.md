@@ -39,3 +39,5 @@ SpringBoot2.1.6 + Maven3.5.4 +Redis +lombok(插件)+Stopwatch(计时工具)
 `补充` 
 
 既然可以通过Lua脚本可以实现批量插入数据到Redis服务器中，那么在实际开发过程中，如果涉及到批量插入数据到Redis服务器，那么就可以考虑通过Lua脚本实现。
+
+![acda64387e0896604b5932dc433c8b77](https://user-images.githubusercontent.com/37285812/142142181-861fe994-a2d0-43a3-8334-c29ec77eb78f.gif)
